@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/coincidence-game/static/css/main.a7044613.css",
-    "main.js": "/coincidence-game/static/js/main.667b79a4.js",
+    "main.css": "/coincidence-game/static/css/main.55002496.css",
+    "main.js": "/coincidence-game/static/js/main.a96a5f9a.js",
     "index.html": "/coincidence-game/index.html",
-    "main.a7044613.css.map": "/coincidence-game/static/css/main.a7044613.css.map",
-    "main.667b79a4.js.map": "/coincidence-game/static/js/main.667b79a4.js.map"
+    "main.55002496.css.map": "/coincidence-game/static/css/main.55002496.css.map",
+    "main.a96a5f9a.js.map": "/coincidence-game/static/js/main.a96a5f9a.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7044613.css",
-    "static/js/main.667b79a4.js"
+    "static/css/main.55002496.css",
+    "static/js/main.a96a5f9a.js"
   ]
 }
