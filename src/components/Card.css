@@ -1,0 +1,16 @@
+.card{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    border: 2px solid transparent;
+}
+.card-back{
+    background: #3a3e4c;
+}
+@media screen and (max-width: 518px){
+    .card{
+        width: 30px;
+        height: 30px;
+    }
+}
