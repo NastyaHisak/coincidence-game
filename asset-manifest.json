@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/coincidence-game/static/css/main.a7044613.css",
+    "main.js": "/coincidence-game/static/js/main.667b79a4.js",
+    "index.html": "/coincidence-game/index.html",
+    "main.a7044613.css.map": "/coincidence-game/static/css/main.a7044613.css.map",
+    "main.667b79a4.js.map": "/coincidence-game/static/js/main.667b79a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7044613.css",
+    "static/js/main.667b79a4.js"
+  ]
+}
